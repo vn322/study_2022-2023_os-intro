@@ -287,7 +287,7 @@ header-includes:
 
     dnf install gh
 
- 
+
 
 ![Установка программного обеспечения git и gh](1.png){#fig:001 width=70%}
 
