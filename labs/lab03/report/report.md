@@ -111,6 +111,9 @@ survive.
 1 - List item 1
 2 - List item 2
 3 - List item 3
+
+
+
 # Выполнение лабораторной работы
 
 Спомощью команды cd мы перешли в директорию ~/work/study/2022-2023/Операционные системы/os-intro/labs/lab03/report, а затем спомощью команды make создали файлы report.docx report.md report.pdf (рис. [-@fig:001]).
