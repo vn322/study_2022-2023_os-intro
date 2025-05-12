@@ -1,0 +1,40 @@
+.:
+итого 24
+drwxr-xr-x 2 root root 4096 мая  6 18:16 bib
+-rw-r--r-- 1 root root    0 мая 12 18:05 dir-tree.list
+drwxr-xr-x 2 root root 4096 мая  6 18:16 image
+-rw-r--r-- 1 root root 1127 мая  6 18:16 Makefile
+drwxr-xr-x 4 root root 4096 мая  6 18:16 pandoc
+-rw-r--r-- 1 root root 7771 мая 11 15:06 report.md
+
+./bib:
+итого 8
+-rw-r--r-- 1 root root 4866 мая  6 18:16 cite.bib
+
+./image:
+итого 252
+-rw-r--r-- 1 root root 257571 мая  6 18:16 placeimg_800_600_tech.jpg
+
+./pandoc:
+итого 8
+drwxr-xr-x 2 root root 4096 мая  6 18:16 csl
+drwxr-xr-x 3 root root 4096 мая  6 18:16 filters
+
+./pandoc/csl:
+итого 16
+-rw-r--r-- 1 root root 12853 мая  6 18:16 gost-r-7-0-5-2008-numeric.csl
+
+./pandoc/filters:
+итого 96
+-rwxr-xr-x 1 root root 20249 мая  6 18:16 pandoc_eqnos.py
+-rwxr-xr-x 1 root root 25308 мая  6 18:16 pandoc_fignos.py
+-rwxr-xr-x 1 root root 12746 мая  6 18:16 pandoc_secnos.py
+-rwxr-xr-x 1 root root 26829 мая  6 18:16 pandoc_tablenos.py
+drwxr-xr-x 2 root root  4096 мая  6 18:16 pandocxnos
+
+./pandoc/filters/pandocxnos:
+итого 64
+-rw-r--r-- 1 root root 47950 мая  6 18:16 core.py
+-rw-r--r-- 1 root root   121 мая  6 18:16 __init__.py
+-rw-r--r-- 1 root root  1502 мая  6 18:16 main.py
+-rw-r--r-- 1 root root  6855 мая  6 18:16 pandocattributes.py

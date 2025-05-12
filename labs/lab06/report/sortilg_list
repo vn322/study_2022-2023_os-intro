@@ -1,0 +1,10 @@
+drwxr-xr-x 2 root root 4096 мая  6 18:16 bib
+drwxr-xr-x 2 root root 4096 мая  6 18:16 image
+drwxr-xr-x 4 root root 4096 мая  6 18:16 ..
+drwxr-xr-x 4 root root 4096 мая  6 18:16 pandoc
+drwxr-xr-x 5 root root 4096 мая 12 18:09 .
+-rw-r--r-- 1 root root    0 мая 12 18:09 sortilg_list
+-rw-r--r-- 1 root root 1127 мая  6 18:16 Makefile
+-rw-r--r-- 1 root root 1340 мая 12 18:05 dir-tree.list
+-rw-r--r-- 1 root root 7771 мая 11 15:06 report.md
+итого 36

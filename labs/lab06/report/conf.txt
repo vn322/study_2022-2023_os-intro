@@ -1,0 +1,2 @@
+/root/.cache/dconf
+/root/.config/dconf
