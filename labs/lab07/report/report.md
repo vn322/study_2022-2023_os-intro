@@ -210,7 +210,7 @@ header-includes:
 
 Создали текстовой файл text.txt (рис. [-@fig:008]).
 
-![Создали текстовой файл text.txt](7-8.png){#fig:001 width=70%}
+![Создали текстовой файл text.txt](7-8.png){#fig:008 width=70%}
 
 
 
